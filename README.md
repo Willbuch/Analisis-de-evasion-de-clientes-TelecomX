@@ -52,7 +52,3 @@ El análisis está dividido en las siguientes etapas, las cuales se encuentran e
 ## Resultados
 
 El análisis reveló que ciertos factores como el tipo de contrato, el método de pago y el monto facturado influyen significativamente en la decisión de cancelar el servicio. Estas observaciones pueden ser utilizadas como base para la creación de modelos predictivos y acciones de retención.
-
-## Autor
-
-Este análisis fue realizado como ejercicio práctico en el contexto del proyecto de análisis de datos de Telecom X.
